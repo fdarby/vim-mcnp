@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.imcnp.txt set filetype=mcnp
+au BufNewFile,BufRead *.imcnp set filetype=mcnp
